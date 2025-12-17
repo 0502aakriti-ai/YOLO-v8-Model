@@ -1,6 +1,6 @@
 # YOLOv8 Object Detection Project
 
-YOLOv8 is a state-of-the-art object detection model with Ultralytics
+YOLOv8 is a state-of-the-art object detection model with Ultralytics.  
 This project implements an object detection pipeline using the **YOLOv8** model.  
 The notebook includes dataset preprocessing, model training, and evaluation.
 
